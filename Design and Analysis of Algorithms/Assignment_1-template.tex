@@ -1,0 +1,98 @@
+\documentclass{article}[12pt]
+\usepackage{fullpage}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{framed}
+
+
+\newcommand{\deadline}{11:59pm, Friday, 01/19}
+\newcommand{\programmingdeadline}{11:59pm, Friday, 01/19}
+
+\newcommand{\assigntitle}[1]{{
+  \noindent \large \bf
+  CS218, Winter 2024, \hfill Due: {\deadline}\\
+  Assignment \##1 \footnote{Some of the problems are adapted from existing problems from online sources. Thanks to the original authors.}\\
+  Name: %put in your name here
+  \hspace{3.2in}
+  Student ID: %put in your id here
+  \\
+  [-.05in]
+  \mbox{}\hrulefill \mbox{}\\}}
+
+\begin{document}
+
+\assigntitle{1}{}
+\date{}
+
+
+
+\section{A Complex Complexity Problem (1.2pts)}
+\begin{center}
+\begin{enumerate}
+  \item $(\sqrt{3})^{\log n}=$ \underline{~~~~}$(n)$\\ Explain briefly:
+  %\item $3^n=$ \underline{~~~~}$(n!)$\\ Explain briefly:
+  \item $\log\log n=$ \underline{~~~~}$(\sqrt{\log n})$\\ Explain briefly:
+  %\item $\log(n!)=$ \underline{~~~~}$(n/\log n)$\\Explain briefly:
+  \item $\log (n!)=$ \underline{~~~~}$(n\log n)$\\ Explain briefly:
+  \item $2^n=$\underline{~~~~}$(3^n)$\\ Explain briefly: \\ ~\\
+  %\item $\sqrt{\log n}=$\underline{~~~~}$(\log \sqrt{n})$\\ Explain briefly:
+\end{enumerate}
+\end{center}
+
+
+\section{Solve Recurrences (0.6pts)}
+For all of them, you can assume the base case is when $n$ is a constant, $T(n)$ is also a constant. Use $\Theta(\cdot)$ to present your answer.
+
+\begin{enumerate}
+  %\item $T(n)=T(\sqrt{n})+1$
+  \item $T(n)=T(n/2)+n\log n$
+  \item $T(n)=2T(n/4)+\sqrt{n}$
+  \item $T(n)=4T(n/4) + {n}^{1/2}$
+\end{enumerate}
+
+\section{Test the candies (2.2 pts + 1 candy)}
+
+\begin{enumerate}
+  \item (0.2pts) 
+  \item (0.2pts) 
+  \item (0.6pts) 
+  \item (0.2pts) 
+  \item (0.3pts) 
+  \item (0.7pts) 
+  \item (bonus, 0.5pts and 1 candy) 
+\end{enumerate}
+\newpage
+
+\newpage
+
+\section{(Training) Finding the Minimum Value (1.5 pts)}
+
+
+\section{(Programming) Sort the Train (1 + 1 pts)}
+
+
+\subsection{Programming (1 pt) and Hints}
+
+\subsection{(Bonus) Sort the Train - Let's prove it! (1 pt bonus + 2 candies)}
+
+\begin{enumerate}
+  \item (0.3pts + 1 candy) 
+  \item (0.3pts) 
+  \item (0.4pts + 1 candy) 
+\end{enumerate}
+
+
+\section{Being Unique (1 pt bonus + 2 candies)}
+
+
+
+\end{document}

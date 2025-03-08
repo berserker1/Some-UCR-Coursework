@@ -1,0 +1,444 @@
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 48 by 30
+value increased to 36 by 30
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 51 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 36 by 20
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 37 by 20
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 50 by 30
+value increased to 29 by 20
+Ran program 6 now for 1 tick
+value increased to 57 by 30
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 44 by 30
+value increased to 24 by 20
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 27 by 20
+Ran program 6 now for 1 tick
+value increased to 25 by 20
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 38 by 30
+value increased to 32 by 20
+value increased to 37 by 30
+value increased to 33 by 30
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 31 by 30
+value increased to 17 by 10
+value increased to 44 by 30
+value increased to 35 by 30
+Ran program 6 now for 1 tick
+value increased to 39 by 30
+Ran program 4 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 40 by 30
+Ran program 5 now for 1 tick
+value increased to 54 by 30
+Ran program 6 now for 1 tick
+value increased to 39 by 30
+value increased to 38 by 30
+value increased to 59 by 30
+value increased to 37 by 30
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 52 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 36 by 20
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 43 by 30
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 49 by 30
+Ran program 4 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 52 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 54 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 37 by 20
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 44 by 30
+value increased to 42 by 30
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 37 by 30
+Ran program 6 now for 1 tick
+value increased to 39 by 30
+value increased to 24 by 20
+value increased to 30 by 20
+value increased to 51 by 30
+value increased to 31 by 20
+value increased to 32 by 30
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 49 by 30
+Ran program 6 now for 1 tick
+value increased to 38 by 20
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 17 by 10
+Ran program 6 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 33 by 30
+value increased to 39 by 30
+value increased to 32 by 20
+Ran program 5 now for 1 tick
+value increased to 42 by 30
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 30 by 20
+Ran program 5 now for 1 tick
+value increased to 15 by 10
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 30 by 20
+value increased to 37 by 20
+value increased to 36 by 20
+Ran program 5 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 43 by 30
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 30 by 20
+Ran program 4 now for 1 tick
+value increased to 31 by 20
+Ran program 6 now for 1 tick
+value increased to 39 by 20
+Ran program 5 now for 1 tick
+value increased to 34 by 30
+value increased to 12 by 10
+value increased to 57 by 30
+Ran program 5 now for 1 tick
+value increased to 52 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 44 by 30
+value increased to 35 by 20
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 59 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 31 by 30
+value increased to 39 by 30
+Ran program 4 now for 1 tick
+value increased to 55 by 30
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 22 by 20
+value increased to 33 by 20
+value increased to 57 by 30
+value increased to 33 by 20
+Ran program 4 now for 1 tick
+value increased to 15 by 10
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 18 by 10
+Ran program 6 now for 1 tick
+value increased to 25 by 20
+value increased to 54 by 30
+value increased to 35 by 30
+value increased to 36 by 20
+value increased to 37 by 20
+value increased to 18 by 10
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 34 by 30
+Ran program 5 now for 1 tick
+value increased to 33 by 30
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 38 by 30
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 55 by 30
+value increased to 57 by 30
+Ran program 4 now for 1 tick
+value increased to 47 by 30
+Ran program 5 now for 1 tick
+value increased to 55 by 30
+value increased to 50 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 42 by 30
+Ran program 6 now for 1 tick
+value increased to 58 by 30
+value increased to 43 by 30
+value increased to 37 by 30
+Ran program 4 now for 1 tick
+value increased to 37 by 20
+Ran program 5 now for 1 tick
+value increased to 50 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 54 by 30
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 53 by 30
+Ran program 6 now for 1 tick
+value increased to 41 by 30
+value increased to 40 by 30
+value increased to 47 by 30
+value increased to 47 by 30
+value increased to 58 by 30
+Ran program 4 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 56 by 30
+value increased to 29 by 20
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 39 by 30
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 59 by 30
+Ran program 5 now for 1 tick
+value increased to 53 by 30
+value increased to 31 by 30
+Ran program 4 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 21 by 20
+value increased to 28 by 20
+value increased to 20 by 20
+value increased to 25 by 20
+Ran program 5 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 51 by 30
+value increased to 39 by 20
+Ran program 4 now for 1 tick
+value increased to 28 by 20
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 22 by 20
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 49 by 30
+Ran program 4 now for 1 tick
+value increased to 32 by 20
+value increased to 17 by 10
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 56 by 30
+value increased to 57 by 30
+value increased to 41 by 30
+value increased to 43 by 30
+value increased to 17 by 10
+value increased to 43 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 38 by 20
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 19 by 10
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 54 by 30
+value increased to 27 by 20
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 33 by 20
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 23 by 20
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 42 by 30
+Ran program 5 now for 1 tick
+value increased to 35 by 30
+value increased to 35 by 30
+value increased to 11 by 10
+Ran program 6 now for 1 tick
+value increased to 30 by 30
+value increased to 57 by 30
+value increased to 42 by 30
+value increased to 31 by 30
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+value increased to 10 by 10
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 46 by 30
+value increased to 11 by 10
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 53 by 30
+Ran program 4 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 6 now for 1 tick
+value increased to 35 by 20
+Ran program 5 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick
+Ran program 5 now for 1 tick
+value increased to 30 by 30
+Ran program 6 now for 1 tick
+Ran program 4 now for 1 tick

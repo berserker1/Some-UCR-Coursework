@@ -1,0 +1,3 @@
+- Create sequential program
+- Use numba library
+- Create program withing 10 days

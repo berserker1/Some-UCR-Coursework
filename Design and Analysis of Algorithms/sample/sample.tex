@@ -1,0 +1,198 @@
+\documentclass{article}[12pt]
+\usepackage{fullpage}
+\usepackage[ruled,lined,linesnumbered]{algorithm2e}
+\usepackage{algpseudocode}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{url}
+\usepackage{graphicx}
+
+\begin{document}
+
+%\assigntitle{1}{}
+\date{}
+\section{Sections and Subsections}
+This is a section
+\subsection{Subsection}
+This is a subsection
+\subsubsection{Subsubsection}
+This is a subsubsection
+
+\section{Lists}
+This is a list without numbering.
+\begin{itemize}
+  \item This
+  \item is
+  \item a list
+  \item without numbering
+\end{itemize}
+
+This is a list with numbering.
+
+\begin{enumerate}
+  \item This
+  \item is
+  \item a list
+  \item with numbering
+  \begin{enumerate}
+    \item and
+    \item you can
+    \item nest it
+  \end{enumerate}
+\end{enumerate}
+
+For both you can nest them.
+
+\section{Math Mode}
+In your text, you can use math mode in this way: $a+b=c$.
+
+A formula starting from a new line is like:
+
+$$\sqrt{a_1+a_2}=b^{x+y}$$
+
+A long formula with aligned symbols is like:
+
+\begin{align}
+  (a+b)^2=& (a+b)\times(a+b) \label{eq:1}\\
+  =& a^2+ab+ba+b^2 \label{eq:2}\\
+  =&a^2+2ab+b^2 \label{eq:3}
+\end{align}
+You can reference the numbers in this way: Equation \ref{eq:1}, \ref{eq:2} and \ref{eq:3}.
+
+You can use Greek letters:
+
+$$\alpha, \beta, \sigma, \theta, \dots, \Sigma, \Theta, \Phi, \dots$$
+
+You can use other symbols like:
+
+$$\cup, \cap, \leftarrow, \rightarrow, \Leftarrow, \Rightarrow, \cdot, \pm, \log n, \max, \le, \ge, \nleq, \ngeq, \neq,\in,\subset,\subseteq,\nsubseteq,\notin,\int$$
+
+$$\sum_{i=1}^{n}\frac{1}{i}, \prod_{i=1}^{n} 2^{i}, \left( \frac{1+x}{x^3+5x}\right)$$
+
+$$\hat{a}, \tilde{a}, \bar{a}$$
+
+$$f(x)=\begin{cases}
+         x+1, & \mbox{if } x<10 \\
+         x+5, & \mbox{if } 10\le x \le 20 \\
+         4x, & \mbox{otherwise}.
+       \end{cases}$$
+
+$$\begin{bmatrix}
+    a & b \\
+    c & d
+  \end{bmatrix}
+\begin{bmatrix}
+    e \\
+    f
+  \end{bmatrix}
+$$
+
+\section{Inserting a Table}
+
+This is how you insert a tabular in-place:
+
+\begin{tabular}{|l|l|l|l|}
+  \hline
+    This & is &a&table\\
+    you  & can & add & more \\
+  \hline
+\end{tabular}
+
+Table \ref{tab:table} shows you how to insert a table in the document somewhere else. It will be lablled, and LaTeX will decide where to put it.
+
+
+\begin{table}
+  \centering
+  \begin{tabular}{|l|l|l|l|}
+    \hline
+    This & is &a&table\\
+    you  & can & add & more \\
+    \hline
+  \end{tabular}
+  \caption{A Table}\label{tab:table}
+\end{table}
+
+\section{Inserting a Figure}
+
+Figure \ref{fig:figure} shows how to insert a picture.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=0.3\columnwidth]{ucr.jpg}
+  \caption{This is a Figure}\label{fig:figure}
+\end{figure}
+
+\section{Verbatim}
+
+\begin{verbatim}
+you can write anything here
+%$@%#!%R$^%$#^$!%$^%@%#!$#$#!%#$^%$&^%#
+It will be shown directly.
+\begin{figure}
+\end{table}
+LaTex will not compile the commands inside verbatim.
+\end{verbatim}
+
+\section{Insert an Algorithm}
+
+Algorithm \ref{algo:algo} shows an example of inserting an algorithm.
+
+\begin{algorithm}[H]
+\caption{Compute something}\label{algo:algo}
+\KwIn{This is the input}
+\KwOut{This is the output}
+do something
+\While{something}{
+    do something
+}
+\While{something}{ %while loop in one line
+    do something
+}
+\For{$i$ from 0 to $n$}{
+    do something\\
+    do more things
+}
+\lFor{$i$ from 0 to $n$}{ %for loop in one line
+    do something
+}
+\If{something is true} {do A}
+\Else{do B}
+\lIf{something is true} {do A} %If in one line
+\lElse{do B} %Else in one line
+do something \tcp{this is some short comment}
+\tcc{this is a long comment, which can be very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, very, long.}
+$a\gets b+c$\\
+\Return{your return value}
+\end{algorithm}
+
+\section{Use Citations}
+
+I got the conclusion from here \cite{matroids} and here \cite{dijkstra1959,prim1957shortest}.
+
+
+\bibliographystyle{plain}
+\begin{thebibliography}{10}
+
+\bibitem{matroids}
+Cormen, Leiserson, Rivest, and Stein
+\newblock Introduction to algorithms (CLRS). Third Edition
+\newblock Section 16.4, Lemma 16.7
+
+\bibitem{dijkstra1959}
+Edsger~W. Dijkstra.
+\newblock A note on two problems in connexion with graphs.
+\newblock {\em Numerische mathematik}, 1(1), 1959.
+
+\bibitem{prim1957shortest}
+Robert~Clay Prim.
+\newblock Shortest connection networks and some generalizations.
+\newblock {\em The Bell System Technical Journal}, 36(6):1389--1401, 1957.
+
+\end{thebibliography}
+
+
+\end{document}

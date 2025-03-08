@@ -1,0 +1,42 @@
+Critique Guidelines
+Here are some guidelines for paper critiques: 
+
+Upload PDF. 
+
+Critiques should be short and concise (1 page). Bullet points are fine for strengths and weaknesses.
+
+1. Summary
+
+What is the problem addressed?
+What is the key idea of the proposed work?
+What is the main contribution to the field at the time when the paper was written?
+
+2. Strengths 
+
+Does the paper solve the problem well?
+Does the idea bring a significant benefit over prior work?
+Does it work with reasonable assumptions?
+
+3. Weaknesses
+
+Think critically. Many papers do not explicitly state their weaknesses. Even if some are discussed in the paper, there could be even more.
+Some questions you may ask are:
+Are there any hidden assumptions?
+Is it only applicable to a special case or limited types of systems?
+Are the experiment results inconsistent?
+Is the benefit marginal? 
+
+4. Other Comments and Discussion
+
+Additional thoughts on the paper. For example:
+What are the important things you can take out of it?
+Can you do better than this?
+Is there a better way (e.g., simpler) to achieve the same goal?
+Any room for improvement?
+Is the idea still valid in today's systems?
+What you learned/enjoyed most in the paper
+
+
+
+
+
