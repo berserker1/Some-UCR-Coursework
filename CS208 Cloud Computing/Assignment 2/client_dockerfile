@@ -1,0 +1,25 @@
+# Using a lightweight linux distro with all the preriquisites of gcc installed
+FROM gcc:latest
+
+#WORKDIR
+WORKDIR /usr/src/assignment2_client
+  
+# Copy server code inside the container
+COPY client.c .
+
+# INSTALL BASH
+# RUN apt-get update && apt-get install -y bash gcc
+# SHELL
+SHELL ["/bin/bash", "-c"]
+
+# Compile the file
+RUN gcc -o client client.c
+
+# PORT set as env variable PORT_VAR, default value is 9000
+ENV PORT_VAR="9000"
+
+# Create mountpoint in WORKDIR
+RUN mkdir -p client_storage
+
+# Command to run the executable
+ENTRYPOINT ["./client"]
